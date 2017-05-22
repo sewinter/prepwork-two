@@ -7,6 +7,7 @@
 
 * [Control Flow](logic_and_control_flow.md)
 
+### Practice Problems
 * Easy
   * [Primer](easy/primer.md)
   * [Anagrams?](easy/anagrams.md)
